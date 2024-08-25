@@ -1,0 +1,7 @@
+/*Desabilito el comportamiento por defecto del navegador para que no se muestre
+  el borde azul
+*/
+
+#texto { 
+    outline: none;
+}
