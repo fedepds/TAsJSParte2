@@ -21,4 +21,4 @@ const mostrarCoincidencias = () => {
     listaOutput.innerHTML = listaFiltrada;
 }
 
-texto.addEventListener("input", mostrarCoincidencias)
+texto.addEventListener("input", mostrarCoincidencias);
